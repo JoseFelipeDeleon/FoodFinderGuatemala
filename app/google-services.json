@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340610775676",
+    "firebase_url": "https://foodfinderguatemala.firebaseio.com",
+    "project_id": "foodfinderguatemala",
+    "storage_bucket": "foodfinderguatemala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340610775676:android:3aad2d1315667dac",
+        "android_client_info": {
+          "package_name": "org.josedeleon.foodfinderguatemala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340610775676-57mrie43uiv42af8e03o6i3tpcphu8sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrn9MV3ObkI-qswhwnGqu6tja76Gzq5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
